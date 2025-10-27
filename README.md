@@ -1,11 +1,3 @@
-# RTMDET-RLO 
----
->即時並精準定位產線上旋轉大物件（例如筆電背板）
-
->Optimization Method for Large Object Localization Based on RTMDet-R Model
-
-
-
 ## 專案簡介
 ### 優化並設計針對大尺度旋轉物體（筆電背板）定位檢測的深度學習模型
 ---

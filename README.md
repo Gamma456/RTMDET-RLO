@@ -1,5 +1,19 @@
 # RTMDET-RLO 
-即時並精準定位產線上旋轉大物件（例如筆電背板）
+---
+>即時並精準定位產線上旋轉大物件（例如筆電背板）
 
-Optimization Method for Large Object Localization Based on RTMDet-R Model
-<img width="1556" height="1040" alt="image" src="https://github.com/user-attachments/assets/0b04e0f7-ba72-455d-8481-ff1b1ee97b9d" />
+>Optimization Method for Large Object Localization Based on RTMDet-R Model
+
+
+
+## 專案簡介
+### 優化並設計針對大尺度旋轉物體（筆電背板）定位檢測的深度學習模型
+---
+在筆電製成中，能否精準定位筆電背板直接影響組裝精度與後續自動化檢測的質量。目前業界是使用 Halcon、ImagePro、eVision 等商業軟體進行定位操作但會面臨以下問題:
+
+🔹 過高的版權費<br>
+🔹 不同產品樣貌時需要重新設定參數，泛用性低<br>
+🔹 換線成本高需要過多人工干預，限制產線自動化<br>
+
+使用深度學習模型替代為主要目的，現有模型多專注小物體檢測，對影像中面積占比超過 20% 的物體表現不佳<br>
+針對產線上擺放旋轉、佔比影像超過 20% 的大物件，設計高精度、即時且具泛化能力的深度學習定位模型

@@ -2,7 +2,7 @@
 ---
 >針對產線上角度傾斜的筆電背板，優化並設計可精準定位任意旋轉角度物件的深度學習模型，提升後續自動化檢測背板上細小零件的精度
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/ea2f8d03-67d0-492a-9f71-23ffe023d845" />
+<img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/ea2f8d03-67d0-492a-9f71-23ffe023d845" />
 🟥 紅色為模型預測結果  🟩 綠色為人工標記的正確位置
 
 ## 專案簡介

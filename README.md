@@ -5,7 +5,7 @@
 <img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/ea2f8d03-67d0-492a-9f71-23ffe023d845" />
 🟥 紅色為模型預測結果  🟩 綠色為人工標記的正確位置
 
-## 專案簡介
+## 簡介
 ---
 筆電製成中，能否精準定位筆電背板直接影響組裝精度與後續檢測的質量。目前業界是使用 Halcon、ImagePro、eVision 等商業軟體進行定位操作但會面臨以下問題:
 

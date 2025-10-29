@@ -1,10 +1,17 @@
 ## 精準定位產線上筆電主機背板
 ---
 >針對產線上角度傾斜的筆電背板，優化並設計可精準定位任意旋轉角度物件的深度學習模型，提升後續自動化檢測背板上細小零件的精度
-
+## 成果
+---
+>模型具高泛用性，能適應多種筆電背板外觀與型號，解決傳統方法因產品差異重新調整參數減少人工成本<br>
+>🟥 紅色為模型預測結果  🟩 綠色為人工標記的正確位置
 <img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/ea2f8d03-67d0-492a-9f71-23ffe023d845" />
-🟥 紅色為模型預測結果  🟩 綠色為人工標記的正確位置<br>  
 圖片有進行馬賽克處理僅供展示用途
+
+### 🎬 Demo
+---
+
+[![Watch the video](https://img.youtube.com/vi/-bYtOOlT298/hqdefault.jpg)](https://www.youtube.com/watch?v=-bYtOOlT298)
 
 ## 簡介
 ---

@@ -8,14 +8,21 @@
 <img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/ea2f8d03-67d0-492a-9f71-23ffe023d845" />
 圖片有進行馬賽克處理僅供展示用途
 
-### 🎬 Demo
+#### 🎬 檢測介面程式
 ---
+>右下欄位為物件座標以及旋轉角度資訊<br>
+
+[![Watch the video](https://img.youtube.com/vi/2QKljG7zgEM/hqdefault.jpg)](https://www.youtube.com/watch?v=2QKljG7zgEM)
+
+#### 🎬 細小零件也能準確定位
+---
+>模型在真實產線中即時偵測筆電背板與細小零件，判斷作業員是否正確安裝零件
 
 [![Watch the video](https://img.youtube.com/vi/-bYtOOlT298/hqdefault.jpg)](https://www.youtube.com/watch?v=-bYtOOlT298)
 
 ## 簡介
 ---
-筆電製成中，能否精準定位筆電背板直接影響組裝精度與後續檢測的質量。目前業界是使用 Halcon、ImagePro、eVision 等商業軟體進行定位操作但會面臨以下問題:
+筆電製程中，能否精準定位筆電背板直接影響組裝精度與後續檢測的質量。目前業界是使用 Halcon、ImagePro、eVision 等商業軟體進行定位操作但會面臨以下問題:
 
 🔹 過高的版權費<br>
 🔹 不同產品樣貌時需要重新設定參數，泛用性低<br>
